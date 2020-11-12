@@ -1,0 +1,6 @@
+CSPBacktracking,1,0.000998
+CSPBacktracking,10,0.014960000000000001
+CSPReduceNeighbourDomains,1,0.000997
+CSPReduceNeighbourDomains,10,0.01496
+CSPOrderByNeighbours,1,0.000997
+CSPOrderByNeighbours,10,0.013965000000000002

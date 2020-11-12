@@ -1,0 +1,3 @@
+CSPBacktracking,19
+CSPReduceNeighbourDomains,19
+CSPOrderByNeighbours,19
